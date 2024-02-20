@@ -8,7 +8,7 @@ const components = {
   linkedin: Linkedin,
   twitter: Twitter,
   mastodon: Mastodon,
-  instagram Instagram,
+  instagram: Instagram,
 }
 
 type SocialIconProps = {
