@@ -68,3 +68,4 @@ export function Instagram(svgProps: React.SVGProps<SVGSVGElement>) {
     </svg>
   )
 }
+
