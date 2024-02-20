@@ -42,5 +42,3 @@ export default function AuthorLayout({ children, content }: Props) {
     </>
   )
 }
-
-
