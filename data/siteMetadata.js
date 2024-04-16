@@ -16,7 +16,7 @@ const siteMetadata = {
   twitter: 'https://twitter.com/ArtaJohan',
   facebook: '#',
   youtube: 'https://www.youtube.com/@Arta-johan',
-  linkedin: '#',
+  instagram: 'https://www.instagram.com/arta_johan',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
