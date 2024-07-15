@@ -6,7 +6,46 @@ draft: false
 summary: This article will cover everything I've learnt about RUST programming language 
 ---
 
-Rust is statically and strongly types porgramming language with no
+Rust is a compiled language which means the human readable source code
+is being converted into the type of executable file that can then be ran
+by any appropriate machine, unlike interpreted languages like python
+where you always need interpreter of that certain language to run
+the code straight from the source code. 
+    The compiler for rust is rustc, but it is more convenient to work
+with the projects using cargo package manager. Follow instructions
+in [this](https://www.rust-lang.org/tools/install) webpage to install
+them both. 
+
+```bash
+➜  first-cookings cargo new rust-project
+     Created binary (application) `rust-project` package
+
+➜  first-cookings cd rust-project 
+➜  rust-project git:(master) ✗ tree -L 2
+.
+├── Cargo.toml
+└── src
+    └── main.rs
+
+2 directories, 2 files
+➜  rust-project git:(master) ✗ cargo build
+   Compiling rust-project v0.1.0 (/Users/artajohan/Documents/Solana/rust-start/first-cookings/rust-project)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.39s
+➜  rust-project git:(master) ✗ tree -L 2  
+.
+├── Cargo.lock
+├── Cargo.toml
+├── src
+│   └── main.rs
+└── target
+    ├── CACHEDIR.TAG
+    └── debug
+
+4 directories, 4 files
+➜  rust-project git:(master) ✗ 
+```
+
+It is statically and strongly typed programming language with no
 need to set the types explicitly. Instead creating the variable that
 has no value at all will result in a compiletime error.
 
@@ -14,4 +53,8 @@ has no value at all will result in a compiletime error.
 fn main() {
     let var;
 }
+
+//This will result in the error below
+//error[E0282]: type annotations needed
 ```
+
