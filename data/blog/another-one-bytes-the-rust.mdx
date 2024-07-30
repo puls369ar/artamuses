@@ -474,6 +474,93 @@ mod alfaModule {
 }
 
 fn main() {
-    
+    println!("Hello World")
+}
+```
+
+
+```rust:src/main.rs
+mod alphaModule;
+
+fn main() {
+    println!("Hello World")
+}
+```
+
+```rust:src/alphaModule.rs
+fn hello() {
+    println!("Hello from A")
+}
+```
+
+To call the function hello() we should set it's path through modules.
+There are _**relative**_ and _**absolute**_ paths
+
+Let's add a nested module inside alpaModule
+```rust:src/alphaModule.rs
+mod betaModule; 
+
+fn hello() {
+    println!("Hello from A")
+}
+```
+```rust:src/alphaModule/betaModule.rs
+
+fn bye() {
+    println!("Bye from Beta")
+}
+```
+
+```rust:src/main.rs
+mod alphaModule;
+
+fn main() {
+    // alphaModule::betaModule::bye()           Relative path starts from the 
+    //                                          closest sibiling module.
+    //                                          In this case main function is a 
+    //                                          sibiling to the alphaModule, so we start there
+
+    crate::alphaModule::betaModule::bye()   //  Absolute path should be specified
+                                            //  from the root of the module tree 
+                                            //  which is named _**crate**_ by default
+                                            //  in a custom project
+}
+```
+
+The second method is more prefered for us to see where the item comes from.
+There is a keyword `use` which allows to set the path once for the scope and use 
+the end address as a reference for the rest of the scope
+
+```rust:src/main.rs
+mod alphaModule;
+
+use crate::alphamodule::betaModule
+
+fn main() {
+    betaModule::bye()
+}
+```
+
+When bringing the path into the current scope it is a convention to specify it
+not fully to the item, but to the module containing the item. This gives
+more readability and distinction to prevent name conflicts from different modules
+
+All items and modules are private to the external ones and public to
+sibilings and nested items by default
+So in our example code won't still compile because both `hello()` and `bye()` functions
+are private. To make it work we should modify their access. `pub` keyword will
+make any item and module accessible for all external modules 
+
+```rust:src/alphaModule.rs
+pub mod betaModule; 
+
+fn hello() {
+    println!("Hello from A")
+}
+```
+```rust:src/alphaModule/betaModule.rs
+
+**pub** fn bye() {
+    println!("Bye from Beta")
 }
 ```
