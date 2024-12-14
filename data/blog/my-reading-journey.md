@@ -1,0 +1,126 @@
+---
+title: My Reading Journey
+date: '2024-12-14'
+tags: ['books']
+draft: false
+summary: Short about my reading habit or hobby? Also list of books I've read and I am gonna read
+---
+
+
+
+
+Tech, Business and Self Help
+* [Tim Ferris - The 4-Hour Workweek]()
+* Eric Jorgenson - The Almanack Of Naval Ravikant
+* [Austin Kleon - Show Your Work]()
+* [Dale Carnegie - How To Win Friends and Influence People]() (Audio)
+* [Robert Kiyosaki - Rich Dad Poor Dad]() (Audio)
+* [Mark Manson - The Subtle Art of Not Giving a Fuck]()
+* [Stephen Covey - The 7 Habits of Higjly Effective People]()
+* [Robin Sharma - The 5 AM Club]()
+* [David Goggins - Can't Hurt Me]()
+* David Goggins - Never Finished 
+* [Sam harris - Waking Up]()
+* [Adam Grant - Think Again]()
+* [Allan Dib - The 1-Page Marketing Plan]()
+* Saifedean Ammous - The Bitcoin Standart (Didn't Finish)
+* Miguel Ottina - Automated Market Makers
+* Peter Attia - Outlive
+* Anna Lembke - Dopamine Nation
+* Charles Duhigg - The Power of Habit
+* Gladwell - Outliers 
+* Susan Cain - Quiet
+* Michael Easter - Comfort Crisis
+* Daniel Z. Lieberman and Mike Long - The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity--and Will Determine the Fate of the Human Race
+* Michael Polan - How to change your mind 
+* Ian Robertson - The Winner Effect
+* Robert Greene - 48 Rules of Power
+* [Haruki Murakami- What I Talk About When I Talk About Running]()
+* Nir Eyal - Hooked
+* Vicki Abelson - Don't Jump
+* Spencer Johnson - Who Moved My Cheese?
+* Greg Dinkin and Patrick Bet-David - Choose Your Enemies Wisely: Business Planning for the Audacious Few
+* Matthew Walker - Why we sleep
+* David Heinemeier Hansson and Jason Fried - Rework
+* Mihaly Csikszentmihalyi - Flow 
+* David Schwartz - The Magic of Thinking Big
+
+  
+ 
+
+Creative
+* [Steven Pressfield - The War of Art]()
+* [Rick Rubin - Creative Act: A Way of Being]()
+* [Elizabeth Gilbert - Big Magic]()
+
+Fiction
+* [Elizabeth Gilbert - Eat, Pray, Love]()
+* [George Orwell - 1984]()
+* [George Orwell - Animal Farm]()
+* [Donna Tartt - The Secret History]()
+* [Donna Tartt - The Goldfinch]()
+* [Madeline Miller - Circe]()
+* [Madeline Miller - Song of Achilles]()
+* [Olivie Blake - The Atlas Six]()
+* Olivie Blake - The Atlas Paradox
+* Olivie Blake - The Atlas Complex
+* [Պաուլո Կոելյո - Ալքիմիկոսը]()
+* [Эрих Мария Ремарк - 3 Товарища]()
+* [Эрих Мария Ремарк - Искра Жизни]()
+* [Герман Гессе - Игра в Бисер]()
+* [Հերման Հեսսե ֊ Սիդհարթհա]()
+* Harper Lee - To Kill a Mockingbird
+* Marcel Proust - In Search of Lost Time
+* [Մայն Ռիդ - Անգլուխ Ձիավորը]()
+* [Ժան Օել - Մամոնտ Որսացողները]()
+
+
+Biography
+* [Viktor Frankl - Search For Meaning]()
+* Arnold Schwarzenegger -  Total Recall
+* [Ashlee Vance - Elon Musk]()
+* [William Rampler - the Gambler]()
+* Yukio Mishima - Sun and Steel
+
+
+History, Philosophy and People
+* [Daron Acemoglu - Why Nations Fail]()
+* [Francis Fukuyama - The End of History and The Lastman]()
+* [Yuval Noah Harari - Sapiens]()
+* [Yuval Noah Harai - Homo Deus]()
+* [Yuval Noah Harari - 21 Lessons For The 21st Century]() 
+* [Saul Singer & Dan Senor - Start-up Nation]()
+* Daniel Kahneman - Thinking Fast and Slow (Didn't finish)
+* [Erich Fromm - To Have or To Be]()
+* Erich Fromm - The Art of Loving
+* [Miyamoto Musashi - The Book of Five Rings]()
+* Yamamoto Tsunetomo - Hagakure
+* Karl Popper - The Open Society and Its Enemies
+* Socrates - Republic
+* Thomas Hobbes - Leviathan
+* Jean-Jacques Rousseau - The Social Contract
+* Moisés Naim - The End of Power
+* Moisés Naim - The Revenge of Power
+* Niezshe - Thus Spoke Zarathustra
+
+
+
+
+
+Local
+* [Գարեգին Նժդեհ - Որդիների Պայքարն Ընդդեմ Հայրերի]()
+* Գարեգին Նժդեհ֊Ճանաչիր Պատերազմը 
+* Րաֆֆի
+    * [Կայծեր]()
+    * [Խաչագողի Հիշատակարանը]()
+    * [Սամվել]()
+    * [Խենթը]()
+    * [Դավիթ Բեկ]()
+  
+
+# Authors to Check
+* Amos Tversky
+* Richard Thaler
+* Ibn Khaldun
+
+
