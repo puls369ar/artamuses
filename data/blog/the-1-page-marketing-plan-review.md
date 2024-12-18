@@ -1,12 +1,13 @@
 ---
 title: "The 1-Page Marketing Plan" Book Review
-date: '2024-07-13'
-tags: ['blogging', 'personal']
+date: '2024-12-18'
+tags: ['books']
 draft: false
-summary: COllection of my everyday impressions of everyday during some period of time
+summary: "The 1-Page Marketing Plan" Book Review
 ---
 
-I consider this book as my first one about marketing, although
+I consider this book as my first one about marketing. Although in some books I read like *Tim Ferris*'s [The 4-Hour Workweek]() there are discussions about marketing side of the business, but those are not fully dedicated to it. In this book Author explains techniques in three time staged of marketing proccess *Before The Sale*, *During The Sale* and *After The Sale*
+
 
 ## 1. Before the Sale (Prospects)
 ### Chapter 1: Selecting Your Target Market
