@@ -214,6 +214,94 @@ Porto Flip
 - Cocktail Glass
 - Nutmeg
 
+
+Sidecar
+* Brandy(Cognac) - 50ml
+* Triple Sec - 20ml
+* Lemon Juice - 20ml
+- Shake
+- Cocktail Glass
+
+South Side
+* London Dry Gin - 60ml
+* Lemon Juice - 30ml
+* Simple Syrup - 15ml
+* Mint Leaves - 5pcs
+* Extracted Egg White(optional)
+- Shake
+- Cocktail Glass
+- Mint Spring
+
+Spicy Fifty
+* [Vanilla Vodka](https://www.google.com/search?q=what+is+vanilla+vodka&sca_esv=b6460952771b6581&sxsrf=AHTn8zpyFV-w-AnYo62v3X_0Nntw_O1EwA%3A1742145359705&ei=TwfXZ9HdKoWxwPAP-PWywQU&ved=0ahUKEwiRwb-ajY-MAxWFGBAIHfi6LFgQ4dUDCBA&uact=5&oq=what+is+vanilla+vodka&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXdoYXQgaXMgdmFuaWxsYSB2b2RrYTIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzINEAAYgAQYsAMYQxiKBTINEAAYgAQYsAMYQxiKBTINEAAYgAQYsAMYQxiKBTINEAAYgAQYsAMYQxiKBTIOEAAYsAMY5AIY1gTYAQEyDhAAGLADGOQCGNYE2AEBMg4QABiwAxjkAhjWBNgBATITEC4YgAQYsAMYQxjIAxiKBdgBATITEC4YgAQYsAMYQxjIAxiKBdgBAUjLD1CvB1ikDnABeAGQAQCYAZQCoAG4DKoBBTAuMS42uAEDyAEA-AEBmAIBoAIKmAMAiAYBkAYRugYGCAEQARgJkgcBMaAH0TE&sclient=gws-wiz-serp) - 50ml
+* [Elderflower Cordial](https://www.google.com/search?gs_ssp=eJzj4tLP1TcwKspOyqsyYHRg8OJOzUlJLUrLyS9PLQIAcWgIyg&q=elderflower&oq=elferflower&gs_lcrp=EgZjaHJvbWUqEAgCEC4YkQIY1AIYgAQYigUyBggAEEUYOTIQCAEQLhiRAhjUAhiABBiKBTIQCAIQLhiRAhjUAhiABBiKBTINCAMQABiRAhiABBiKBTINCAQQABiRAhiABBiKBTINCAUQABiRAhiABBiKBTIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEC4YChiABNIBCDM4ODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8) - 15ml
+* Lime Juice - 15ml
+* Honey Syrup - 10ml
+* Red Chill Pepper - 2 slices
+- Shake
+- Cocktail Glass
+- Red Chil Pepper
+
+Stinger
+* Brandy(Cognac) - 50ml
+* Creme de Mente - 20ml
+- Stir
+- Martini Cocktail Glass
+- Mint Leave
+
+Tiperrary
+* Irish Whiskey - 50ml
+* Red Sweet Vermouth - 25ml
+* [Green Chartreuse](https://www.google.com/search?q=green+chartreuse&oq=green+chartreuse&gs_lcrp=EgZjaHJvbWUqDAgAEAAYQxiABBiKBTIMCAAQABhDGIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMzM0MWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8) - 15ml
+* Angostura Bitter - 2 Dashes
+- Stir
+- Cocktail Glass
+- Orange Slice
+
+Trinidad Sour
+* Angostura Bitter - 45ml
+* [Orgeat Syrup](https://www.google.com/search?q=orgeat+syrup&oq=Orgeat+Syrup&gs_lcrp=EgZjaHJvbWUqDwgAEAAYQxjjAhiABBiKBTIPCAAQABhDGOMCGIAEGIoFMgwIARAuGEMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg0MjUxajBqOagCALACAA&sourceid=chrome&ie=UTF-8)
+* Lemon Juice - 22.5ml
+* Rye Whiskey - 15ml
+- Shake
+- Cocktail Glass
+
+Tuxedo
+* Old Tom Gin - 30ml
+* Dry Vermouth - 30ml
+* Maraschino Luxardo - 1/2 Bar Spoon
+* [Absinthe](https://www.google.com/search?q=absinthe&oq=absinthe&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiPAjIHCAIQABiPAtIBBzk4MmowajmoAgCwAgE&sourceid=chrome&ie=UTF-8) - 1/4 Bar Spoon
+* Orange Bitter - 3 Dashes
+- Stir
+- Martini Cocktail Glass
+- Lemon Zest and Cherry
+
+Vesper
+* Gin - 45ml
+* Vodka - 15ml
+* Lillet Blanc - 7.5ml
+- Shake
+- Cocktail Glass
+- Lemon Zest
+
+
+Vieux Carre
+* Rye Whiskey - 30ml
+* Cognac - 30ml
+* Sweet Vermouth - 30ml
+* [Benedictine](https://www.google.com/search?q=benedictine&oq=benedictine&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyEAgBEC4YkQIY1AIYgAQYigUyEAgCEC4YiwMYoQMYqAMYgAQyEwgDEC4YiwMYoQMYqAMY0gMYgAQyDwgEEAAYQxiLAxiABBiKBTIKCAUQABiLAxiABDIKCAYQABiLAxiABDIPCAcQABhDGIsDGIAEGIoFMgoICBAAGIsDGIAEMhYICRAuGK8BGMcBGIsDGKYDGKgDGIAE0gEIMTY2OWoxajeoAgCwAgA&sourceid=chrome&ie=UTF-8) - 1 Bar Spoon
+* Peychaud’s Bitter - 2 Dashes
+- Stir
+- Cocktail Glass
+- Orange Zest and Maraschino Cherry
+
+White Lady
+Gin - 40ml
+Triple Sec - 30ml
+Lemon Juice - 20ml
+- Shake
+- Cocktail Glass
+
 ### Negroni
 Boulvardier
 * Bourbon or [Rye Whiskey](https://www.google.com/search?q=rye+whiskey&oq=Rye+Whiskey&gs_lcrp=EgZjaHJvbWUqEAgAEAAYkQIY4wIYgAQYigUyEAgAEAAYkQIY4wIYgAQYigUyDQgBEC4YkQIYgAQYigUyCggCEAAYiwMYgAQyEAgDEAAYkQIYiwMYgAQYigUyEAgEEC4YiwMYmAMYqAMYgAQyCggFEAAYiwMYgAQyCggGEAAYiwMYgAQyCggHEAAYiwMYgAQyCggIEAAYiwMYgAQyCggJEAAYiwMYgATSAQgyODE3ajFqN6gCALACAA&sourceid=chrome&ie=UTF-8) - 45ml
@@ -245,7 +333,7 @@ Cardinale
 
 * Barspoon vs Teaspoon
 * Cocktail Glass vs Martini Cocktail Glass vs Large Cocktail Glass vs Elegant Cocktail Glass
-* Zest vs Peel vs Rind vs Twist
+* Zest vs Peel vs Rind vs Twist vs Slice
 * Vigorous Shake vs Brisk Shake (yet to rewrite shaking methods)
 
 * Pisco Famility in Giblet Glass
